@@ -1,0 +1,16 @@
+C:\Users\Alina\Desktop\HW1 Base\Task6\bin\Debug\net5.0\Task6.exe
+C:\Users\Alina\Desktop\HW1 Base\Task6\bin\Debug\net5.0\Task6.deps.json
+C:\Users\Alina\Desktop\HW1 Base\Task6\bin\Debug\net5.0\Task6.runtimeconfig.json
+C:\Users\Alina\Desktop\HW1 Base\Task6\bin\Debug\net5.0\Task6.runtimeconfig.dev.json
+C:\Users\Alina\Desktop\HW1 Base\Task6\bin\Debug\net5.0\Task6.dll
+C:\Users\Alina\Desktop\HW1 Base\Task6\bin\Debug\net5.0\ref\Task6.dll
+C:\Users\Alina\Desktop\HW1 Base\Task6\bin\Debug\net5.0\Task6.pdb
+C:\Users\Alina\Desktop\HW1 Base\Task6\obj\Debug\net5.0\Task6.csproj.AssemblyReference.cache
+C:\Users\Alina\Desktop\HW1 Base\Task6\obj\Debug\net5.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alina\Desktop\HW1 Base\Task6\obj\Debug\net5.0\Task6.AssemblyInfoInputs.cache
+C:\Users\Alina\Desktop\HW1 Base\Task6\obj\Debug\net5.0\Task6.AssemblyInfo.cs
+C:\Users\Alina\Desktop\HW1 Base\Task6\obj\Debug\net5.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Desktop\HW1 Base\Task6\obj\Debug\net5.0\Task6.dll
+C:\Users\Alina\Desktop\HW1 Base\Task6\obj\Debug\net5.0\ref\Task6.dll
+C:\Users\Alina\Desktop\HW1 Base\Task6\obj\Debug\net5.0\Task6.pdb
+C:\Users\Alina\Desktop\HW1 Base\Task6\obj\Debug\net5.0\Task6.genruntimeconfig.cache
